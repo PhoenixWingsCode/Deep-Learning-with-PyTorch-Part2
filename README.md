@@ -184,12 +184,3 @@ I enjoy building projects that bridge **theory with real-world AI applications**
 If you're working in **AI, Machine Learning, or Deep Learning**, feel free to connect or collaborate.
 
 ---
-
-✅ If you want, I can also help you create:
-
-* **A professional GitHub README (top 1% style)**
-* **Badges, project visuals, and architecture diagrams**
-* **A better GitHub portfolio structure for recruiters**
-* **A second repository for your PyTorch bootcamp projects**
-
-Just tell me.
